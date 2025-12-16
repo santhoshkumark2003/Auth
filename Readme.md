@@ -28,3 +28,4 @@ This is a simple auth API built with Node.js and Express.js. It uses MongoDB for
 
 * [GitHub](https://github.com/santhoshkumark2003/Auth)
 * [API](https://documenter.getpostman.com/view/50347515/2sB3dTuTyU)
+* [Render](https://auth-kjjm.onrender.com)
